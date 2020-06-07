@@ -1,0 +1,10 @@
+{
+  "name": "Feature report intergate",
+  "description": "A Ruby app using grape and rack",
+  "repository": "https://github.com/niclin/feature-report",
+  "env": {
+    "GOOGLE_SHEET_API": {
+      "description": "Your google sheet URL endpoint, example: https://script.google.com/macros/s/YOUR_GOOGLE_SHEET_SECRET/exec"
+    }
+  }
+}
